@@ -1,0 +1,3 @@
+steady pace = 18 mpd, healthiest
+strenuous pace = 29 mpd, less healthy
+grueling pace = 40 mpd, unhealthiest

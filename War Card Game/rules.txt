@@ -1,0 +1,14 @@
+2 Player game.
+Each player gets half of the deck.
+Ace Beats every card except for 2.
+Players place down one card at a time, the player with the higher value card takes both cards.
+When two cards of the same value are placed, both players place 3 cards face down 
+and one card face up, whoever has the highest faceup card wins.
+The first player to run out of cards loses.
+
+
+populate deck
+shuffle cards
+deal entire deck equally to both players
+Place a random card from each players deck
+The player with the highest card gets both cards

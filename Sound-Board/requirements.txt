@@ -1,0 +1,6 @@
+1. three sound boards (cartoon, audience, misc)
+2. five sounds in each sound board
+3. main window will be three buttons that open up the different sound boards in their own windows
+4. size of window does not matter, should depend on amount of buttons
+5. buttons should be packed horizontally
+6. boards with a defined purpose should have buttons with icons
