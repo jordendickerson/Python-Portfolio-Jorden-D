@@ -1,2 +1,2 @@
 # Python-Portfolio-Jorden-D
-This is my portfolio of projects created in Python. First started in my Senior year of high school (04/04/22).
+This is my portfolio of projects created in Python. These projects were created in my senior year of high school (2021 - 2022).

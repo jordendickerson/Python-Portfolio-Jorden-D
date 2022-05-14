@@ -1,2 +1,3 @@
 #Shmup
 A shoot-em-up made in pygame.
+!!!YOU MUST HAVE PYGAME INSTALLED ON YOUR COMPUTER TO RUN THE GAME!!!
